@@ -1,5 +1,4 @@
 .pages-3 {
-  color: aqua;
   margin-top: 20px;
   display: flex;
   flex-direction: row;
@@ -25,4 +24,7 @@ p {
 
 body {
   background-color: blueviolet;
+}
+.index-color {
+  color: aqua;
 }
