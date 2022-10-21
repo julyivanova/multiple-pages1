@@ -1,0 +1,23 @@
+.pages-3 {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+h1 {
+  text-align: center;
+}
+
+.email {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+p {
+  text-align: center;
+}
