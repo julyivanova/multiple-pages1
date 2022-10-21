@@ -1,9 +1,9 @@
 .pages-3 {
+  color: aqua;
   margin-top: 20px;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  color: aqua;
 }
 
 h1 {
