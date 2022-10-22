@@ -16,6 +16,7 @@ h1 {
 img {
   display: block;
   margin: auto;
+  border-radius: 10px;
 }
 
 p {
